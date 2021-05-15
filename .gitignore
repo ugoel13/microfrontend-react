@@ -1,3 +1,7 @@
 /products/node_modules/
 /cart/node_modules/
 /container/node_modules/
+.DS_Store
+/cart/DS_Store
+/container/DS_Store
+products/DS_Store
